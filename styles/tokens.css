@@ -12,18 +12,18 @@
   --bg-elev-2: #1c1c21;
   --bg-elev-3: #26262c;
 
-  /* --- Color: accent (electric lime) --- */
-  --accent:        #c7f94b;
-  --accent-bright: #d8ff6e;
-  --accent-press:  #aee336;
-  --accent-soft:   rgba(199, 249, 75, 0.12);
-  --accent-line:   rgba(199, 249, 75, 0.35);
+  /* --- Color: accent (electric blue) --- */
+  --accent:        #4fb3ff;
+  --accent-bright: #72c6ff;
+  --accent-press:  #2fa0f5;
+  --accent-soft:   rgba(79, 179, 255, 0.12);
+  --accent-line:   rgba(79, 179, 255, 0.35);
 
   /* --- Color: text --- */
   --text:       #f5f5f3;
   --text-muted: #a8a8af;
   --text-faint: #6c6c74;
-  --on-accent:  #0a0a0b;
+  --on-accent:  #ffffff;
 
   /* --- Color: strokes --- */
   --line:        rgba(255, 255, 255, 0.08);
@@ -80,7 +80,7 @@
   --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.45);
   --shadow-md: 0 20px 44px -22px rgba(0, 0, 0, 0.85);
   --shadow-lg: 0 44px 90px -34px rgba(0, 0, 0, 0.92);
-  --glow-accent: 0 0 0 1px var(--accent-line), 0 16px 48px -10px rgba(199, 249, 75, 0.32);
+  --glow-accent: 0 0 0 1px var(--accent-line), 0 16px 48px -10px rgba(79, 179, 255, 0.32);
 
   /* --- Motion --- */
   --dur-fast:  160ms;
